@@ -1,5 +1,5 @@
 # Xahau Websocket Stream
-Subscribe and get notified on various events happening on the XAHL, such as trades.
+Subscribe and get notified on various events happening on the Xahau Network, such as trades.
 
 ## WebSocket API Documentation
 
